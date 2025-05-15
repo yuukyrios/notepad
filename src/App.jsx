@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import NoteInput from './components/NoteInput';
-import NoteList from './components/NoteList';
-import NoteDetails from './components/NoteDetails';
+import NoteList from './components/Notelist';
+import NoteDetails from './components/Notedetails';
 import Navbar from './components/Navbar';
 
 function App() {
